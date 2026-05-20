@@ -6,6 +6,20 @@ A machine learning web app that trains a regression model on a student dataset a
 
 [Click here to view the deployed app](https://student-score-predictor-spys6shfzupqxkqducitzs.streamlit.app/)
 
+## App Screenshots
+
+### Dataset Preview
+
+![Dataset Preview](assets/dataset-page.png)
+
+### Model Training
+
+![Model Training](assets/train-model-page.png)
+
+### Feature Importance
+
+![Feature Importance](assets/feature-importance-page.png)
+
 
 ## Features
 
