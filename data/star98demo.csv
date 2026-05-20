@@ -1,0 +1,601 @@
+student_id,gender,school_type,attendance_percent,study_hours_per_week,previous_score,assignments_submitted,projects_completed,sleep_hours,class_participation,internet_access,tuition,extracurricular,parent_education,final_score,grade
+STU0001,Male,Government,95.1,2.8,60.3,4,0,5.5,9,Yes,Yes,No,Graduate,73.7,B
+STU0002,Female,Government,86.4,8.1,44.3,9,0,4.9,2,Yes,No,Yes,Graduate,68.8,C
+STU0003,Female,Private,98.8,8.9,68.1,9,4,5.4,2,Yes,No,No,Intermediate,96.5,A
+STU0004,Female,Private,92.5,4.4,56.3,8,0,7.2,3,No,No,No,Intermediate,71.5,B
+STU0005,Male,Government,85.8,18.7,81.6,7,0,8.1,7,Yes,No,No,Intermediate,100,A
+STU0006,Female,Government,61.3,16.6,67.3,10,4,6.3,4,Yes,No,No,High School,98.1,A
+STU0007,Male,Private,90.6,9.9,38.8,10,4,9.0,9,Yes,Yes,Yes,Graduate,100,A
+STU0008,Male,Private,70.3,7.2,44.5,4,2,8.9,3,Yes,No,No,Graduate,78.3,B
+STU0009,Male,Private,89.3,12.3,81.7,12,0,7.2,8,Yes,No,No,High School,100,A
+STU0010,Female,Government,91.7,21.5,67.0,6,1,7.5,9,Yes,No,Yes,Graduate,100,A
+STU0011,Male,Government,87.8,5.2,53.7,9,3,8.5,8,No,No,Yes,Intermediate,88.1,A
+STU0012,Female,Government,57.6,2.4,36.9,9,0,6.8,5,Yes,No,Yes,Graduate,65.6,C
+STU0013,Female,Government,90.3,18.0,46.4,5,3,6.1,7,Yes,No,No,Intermediate,84.3,B
+STU0014,Male,Government,79.1,3.9,46.0,11,1,8.4,2,Yes,No,Yes,High School,74.2,B
+STU0015,Female,Private,55.7,3.0,80.2,7,1,6.3,8,No,Yes,No,Intermediate,78.7,B
+STU0016,Male,Government,67.8,15.6,78.8,12,3,5.2,5,Yes,Yes,No,Graduate,100,A
+STU0017,Male,Private,81.3,11.6,86.2,6,0,8.8,2,Yes,No,No,High School,88.5,A
+STU0018,Male,Private,81.8,14.0,60.2,12,2,8.7,4,Yes,Yes,No,High School,97.5,A
+STU0019,Female,Government,88.8,2.5,62.5,5,0,6.9,9,Yes,No,Yes,Intermediate,77.0,B
+STU0020,Male,Private,82.5,21.7,74.2,4,4,5.8,2,Yes,Yes,No,Graduate,100,A
+STU0021,Male,Government,64.5,8.2,76.2,8,4,6.7,1,No,No,Yes,High School,83.1,B
+STU0022,Female,Government,74.9,15.8,68.7,5,0,8.8,3,Yes,Yes,No,High School,88.6,A
+STU0023,Male,Private,95.5,17.7,86.6,9,1,7.6,2,Yes,Yes,Yes,Intermediate,100,A
+STU0024,Female,Private,91.0,4.7,59.7,6,2,8.0,7,Yes,No,Yes,High School,89.8,A
+STU0025,Male,Government,65.0,18.1,62.6,8,1,5.5,4,No,Yes,No,Graduate,82.5,B
+STU0026,Male,Private,79.1,20.7,41.9,8,1,7.1,5,Yes,No,No,Postgraduate,96.4,A
+STU0027,Male,Government,78.0,9.1,69.6,8,0,7.7,1,Yes,No,Yes,Graduate,71.5,B
+STU0028,Male,Government,93.2,16.1,53.0,8,3,6.0,5,Yes,No,Yes,Intermediate,94.5,A
+STU0029,Male,Government,80.6,9.5,85.0,8,2,5.4,10,Yes,Yes,No,High School,96.2,A
+STU0030,Female,Government,62.6,2.8,65.9,9,0,8.2,4,Yes,No,No,Graduate,70.6,B
+STU0031,Female,Government,93.2,2.5,59.9,7,3,6.7,4,Yes,Yes,Yes,Intermediate,87.7,A
+STU0032,Male,Private,80.1,20.3,42.3,6,3,7.5,9,Yes,No,No,Intermediate,100,A
+STU0033,Female,Private,92.4,12.5,88.8,11,3,5.7,4,No,No,No,Intermediate,100,A
+STU0034,Female,Private,69.4,12.3,43.3,7,3,7.6,4,Yes,Yes,Yes,High School,80.4,B
+STU0035,Male,Government,72.5,17.2,91.8,4,4,6.2,1,Yes,No,Yes,Graduate,100,A
+STU0036,Female,Private,82.1,5.6,48.2,10,3,4.6,6,No,No,No,Intermediate,75.7,B
+STU0037,Female,Private,95.8,13.4,74.8,5,3,5.1,8,No,No,No,Intermediate,96.8,A
+STU0038,Female,Government,92.4,6.3,39.9,4,4,4.7,6,Yes,No,No,Graduate,80.4,B
+STU0039,Male,Private,64.0,1.4,44.1,6,3,7.5,10,No,No,No,Postgraduate,78.5,B
+STU0040,Female,Private,91.9,21.3,41.5,4,2,7.1,7,Yes,No,No,High School,90.8,A
+STU0041,Female,Private,86.4,7.3,76.1,5,4,8.0,6,Yes,No,No,High School,84.9,B
+STU0042,Male,Private,98.2,14.3,84.7,6,3,5.3,9,Yes,No,No,High School,100,A
+STU0043,Female,Private,81.7,7.8,49.7,5,2,8.5,4,No,No,No,Graduate,74.2,B
+STU0044,Female,Government,66.6,6.9,70.8,8,4,4.5,4,Yes,Yes,No,Intermediate,78.4,B
+STU0045,Male,Government,87.0,10.4,36.0,8,1,6.3,4,Yes,No,Yes,Intermediate,74.0,B
+STU0046,Female,Private,75.4,7.4,48.8,7,2,5.0,9,Yes,No,No,Intermediate,87.7,A
+STU0047,Male,Government,81.9,21.6,85.0,8,1,6.1,5,Yes,Yes,No,Graduate,100,A
+STU0048,Female,Government,88.9,3.2,35.7,8,3,6.7,6,Yes,Yes,No,Graduate,79.4,B
+STU0049,Male,Private,77.1,13.1,76.2,6,1,8.2,5,Yes,No,Yes,High School,95.1,A
+STU0050,Female,Private,74.9,19.1,94.4,8,4,7.3,10,No,Yes,No,Intermediate,100,A
+STU0051,Male,Private,62.8,2.6,35.2,11,4,6.6,1,Yes,Yes,No,High School,70.4,B
+STU0052,Female,Government,91.2,5.2,41.9,7,1,8.6,3,Yes,Yes,No,Intermediate,82.5,B
+STU0053,Male,Government,74.8,10.8,53.2,10,2,6.8,8,No,No,No,Postgraduate,81.0,B
+STU0054,Female,Private,93.7,13.3,36.2,8,4,4.7,3,Yes,Yes,Yes,Graduate,93.1,A
+STU0055,Female,Private,91.6,21.4,63.2,10,2,5.9,2,Yes,Yes,No,Intermediate,100,A
+STU0056,Female,Government,69.2,7.8,93.2,10,4,8.2,1,No,No,No,Intermediate,85.9,A
+STU0057,Female,Government,89.2,5.3,68.0,8,3,8.5,8,Yes,Yes,No,Graduate,100,A
+STU0058,Male,Private,92.9,3.4,91.8,6,3,8.7,5,Yes,Yes,No,High School,100,A
+STU0059,Female,Government,63.6,13.6,79.8,6,0,5.7,7,Yes,No,No,High School,80.3,B
+STU0060,Female,Private,77.0,4.1,67.3,9,2,7.0,9,Yes,Yes,No,Postgraduate,100,A
+STU0061,Female,Private,65.5,17.3,37.6,11,3,6.2,3,Yes,Yes,No,Intermediate,88.0,A
+STU0062,Female,Private,87.5,9.6,74.3,6,0,6.6,5,No,No,No,Intermediate,80.8,B
+STU0063,Female,Private,79.0,21.0,72.6,11,4,4.7,2,Yes,Yes,Yes,Graduate,100,A
+STU0064,Female,Private,94.3,10.3,76.6,4,0,6.0,1,Yes,No,Yes,Graduate,90.7,A
+STU0065,Female,Government,63.1,4.7,71.6,10,4,7.6,8,Yes,Yes,No,Graduate,97.7,A
+STU0066,Female,Private,67.9,12.5,39.4,9,4,5.8,7,Yes,No,No,Intermediate,85.8,A
+STU0067,Female,Private,72.2,8.5,52.8,8,0,8.9,7,Yes,No,No,High School,79.0,B
+STU0068,Male,Private,65.4,17.8,48.1,7,4,5.6,3,Yes,No,No,Graduate,95.4,A
+STU0069,Male,Private,88.0,2.9,52.7,10,1,5.4,9,Yes,Yes,No,Intermediate,88.8,A
+STU0070,Female,Private,88.6,8.1,41.9,5,1,7.9,4,Yes,No,No,Graduate,72.2,B
+STU0071,Female,Private,79.1,10.6,75.4,8,4,6.2,6,No,Yes,No,High School,96.7,A
+STU0072,Male,Private,83.6,10.7,77.1,10,0,5.1,1,No,Yes,No,Graduate,86.6,A
+STU0073,Female,Private,71.7,20.9,76.8,12,3,7.1,3,Yes,Yes,No,Intermediate,100,A
+STU0074,Female,Private,75.0,6.0,56.8,9,4,8.6,6,No,Yes,No,High School,80.1,B
+STU0075,Male,Government,84.8,14.5,70.8,4,0,8.0,4,Yes,Yes,No,Intermediate,97.0,A
+STU0076,Male,Government,69.8,4.1,89.0,4,2,8.4,3,Yes,Yes,Yes,Graduate,84.1,B
+STU0077,Male,Private,71.1,17.6,70.3,4,1,5.7,3,No,Yes,No,High School,81.0,B
+STU0078,Male,Private,97.5,1.9,82.0,12,2,6.6,1,Yes,No,Yes,Intermediate,83.8,B
+STU0079,Male,Private,75.0,19.9,54.3,6,0,5.1,10,No,No,Yes,Graduate,86.6,A
+STU0080,Female,Government,90.7,3.4,74.3,12,1,6.4,4,Yes,Yes,No,Intermediate,84.1,B
+STU0081,Female,Government,84.9,8.9,44.2,11,0,4.9,2,Yes,No,Yes,Intermediate,76.4,B
+STU0082,Female,Private,60.5,8.4,74.9,10,0,8.9,10,Yes,No,No,Intermediate,94.3,A
+STU0083,Female,Government,59.9,18.8,57.1,8,4,5.5,7,Yes,Yes,No,High School,100,A
+STU0084,Male,Private,89.3,20.4,56.1,6,1,7.0,7,Yes,No,Yes,High School,86.0,A
+STU0085,Male,Government,73.9,8.2,57.2,9,4,7.2,1,Yes,Yes,No,High School,87.3,A
+STU0086,Male,Private,67.3,16.9,41.8,10,0,5.8,10,Yes,No,No,Intermediate,97.0,A
+STU0087,Female,Private,64.2,20.9,81.0,8,2,6.0,1,Yes,Yes,No,High School,91.8,A
+STU0088,Male,Government,58.2,19.1,37.5,4,3,8.6,6,Yes,No,No,Graduate,84.6,B
+STU0089,Female,Private,69.6,17.8,72.1,9,0,6.5,2,Yes,No,Yes,High School,90.0,A
+STU0090,Male,Government,78.0,3.4,65.6,9,2,7.8,3,Yes,Yes,Yes,High School,88.0,A
+STU0091,Male,Government,58.4,21.0,72.7,11,4,7.9,8,Yes,Yes,Yes,Graduate,100,A
+STU0092,Female,Private,68.6,6.8,38.4,12,0,5.9,8,Yes,Yes,Yes,Intermediate,71.4,B
+STU0093,Male,Government,82.7,11.6,62.8,12,0,6.5,10,No,Yes,No,Graduate,92.7,A
+STU0094,Female,Private,99.2,2.8,73.8,4,1,7.7,8,No,No,No,Graduate,78.3,B
+STU0095,Male,Government,57.4,14.2,55.1,9,0,7.0,7,No,Yes,No,Graduate,80.2,B
+STU0096,Male,Government,86.4,9.2,70.7,5,2,7.0,6,Yes,Yes,Yes,Postgraduate,100,A
+STU0097,Male,Private,84.1,9.9,56.7,9,2,5.3,4,No,No,No,Intermediate,75.1,B
+STU0098,Male,Government,89.7,18.5,88.0,4,2,8.4,10,Yes,Yes,No,High School,100,A
+STU0099,Male,Private,95.6,16.1,37.6,9,1,8.9,10,Yes,Yes,No,Graduate,100,A
+STU0100,Female,Government,63.7,15.2,69.2,11,3,8.0,7,Yes,No,No,Postgraduate,100,A
+STU0101,Female,Private,83.9,19.4,68.3,5,4,8.3,5,No,No,Yes,High School,100,A
+STU0102,Female,Private,75.3,8.3,36.6,4,3,6.8,4,Yes,No,No,High School,71.3,B
+STU0103,Female,Private,84.2,17.6,43.3,8,3,7.6,3,Yes,Yes,No,Graduate,95.6,A
+STU0104,Male,Private,82.4,9.9,81.6,7,2,5.0,4,Yes,Yes,Yes,Postgraduate,90.9,A
+STU0105,Female,Private,79.1,14.3,69.5,6,2,6.4,10,Yes,Yes,No,Intermediate,97.1,A
+STU0106,Male,Private,77.8,21.8,68.2,10,3,4.7,7,Yes,No,Yes,Intermediate,100,A
+STU0107,Female,Government,83.3,17.2,79.1,9,1,4.7,9,Yes,No,Yes,Graduate,100,A
+STU0108,Female,Private,97.5,1.8,47.1,7,0,5.9,5,Yes,Yes,Yes,Graduate,82.2,B
+STU0109,Female,Private,71.1,17.4,86.9,9,2,5.1,6,Yes,Yes,No,High School,99.4,A
+STU0110,Female,Private,96.6,11.9,83.1,10,0,6.4,3,Yes,No,No,Intermediate,98.0,A
+STU0111,Female,Government,74.2,15.5,56.1,4,2,7.3,7,Yes,No,Yes,Graduate,87.4,A
+STU0112,Male,Government,97.9,4.0,71.5,11,0,5.1,4,Yes,Yes,No,Graduate,100,A
+STU0113,Female,Government,71.7,10.3,39.6,6,4,6.2,6,No,Yes,Yes,Intermediate,75.6,B
+STU0114,Male,Government,89.9,15.8,47.9,8,3,5.4,3,Yes,No,No,High School,83.4,B
+STU0115,Male,Private,93.0,7.7,55.8,5,4,6.9,5,No,No,Yes,Graduate,89.1,A
+STU0116,Male,Private,90.6,1.6,68.2,9,3,8.1,9,Yes,Yes,Yes,High School,88.8,A
+STU0117,Male,Private,78.7,17.2,84.4,5,1,8.9,2,Yes,Yes,No,Graduate,91.5,A
+STU0118,Female,Government,60.8,11.6,87.1,5,4,5.2,3,No,No,No,Graduate,86.4,A
+STU0119,Male,Government,93.1,6.3,73.1,12,2,5.1,5,Yes,Yes,No,Postgraduate,95.9,A
+STU0120,Male,Private,70.2,20.4,37.5,4,0,4.7,10,Yes,Yes,No,Postgraduate,87.7,A
+STU0121,Female,Private,83.2,7.1,92.4,11,1,8.1,7,Yes,No,No,Intermediate,100,A
+STU0122,Male,Government,93.8,7.7,94.3,9,3,5.1,6,Yes,No,Yes,High School,100,A
+STU0123,Male,Government,68.1,9.1,71.9,7,1,8.2,10,Yes,Yes,Yes,High School,92.1,A
+STU0124,Male,Private,97.5,11.6,93.0,7,4,6.1,1,Yes,No,Yes,High School,97.3,A
+STU0125,Female,Private,93.1,10.0,87.9,9,3,6.1,7,No,No,No,Intermediate,100,A
+STU0126,Female,Private,99.5,15.3,42.1,5,3,6.2,6,Yes,No,No,High School,91.1,A
+STU0127,Female,Private,61.2,8.0,63.4,11,1,7.2,9,Yes,No,No,High School,95.3,A
+STU0128,Female,Government,92.3,12.2,77.5,8,3,8.2,6,No,No,Yes,Intermediate,100,A
+STU0129,Female,Private,86.0,1.6,63.5,7,0,7.1,3,No,No,No,Graduate,59.9,C
+STU0130,Female,Government,55.9,7.6,44.1,7,3,6.8,10,Yes,Yes,No,High School,78.9,B
+STU0131,Female,Private,69.6,14.9,66.5,9,1,6.6,9,Yes,Yes,Yes,High School,96.4,A
+STU0132,Female,Private,98.8,7.2,52.3,7,3,5.9,6,Yes,Yes,No,High School,91.9,A
+STU0133,Female,Government,70.5,17.2,43.8,4,2,8.8,2,Yes,No,No,Intermediate,75.2,B
+STU0134,Female,Private,67.2,3.3,79.5,7,1,4.7,9,Yes,No,Yes,Intermediate,88.4,A
+STU0135,Male,Private,89.7,1.1,68.0,6,3,7.4,8,Yes,No,No,High School,81.1,B
+STU0136,Female,Government,79.1,16.2,91.2,6,3,8.5,3,Yes,No,Yes,Intermediate,100,A
+STU0137,Male,Private,96.7,19.4,35.6,5,2,5.8,9,Yes,No,No,Postgraduate,86.1,A
+STU0138,Male,Private,75.7,6.4,46.2,9,2,7.1,4,Yes,Yes,Yes,High School,77.9,B
+STU0139,Male,Private,73.0,3.0,93.9,11,2,8.7,1,Yes,No,No,Intermediate,89.0,A
+STU0140,Female,Private,86.2,2.3,42.1,8,1,6.3,9,Yes,No,Yes,Graduate,82.9,B
+STU0141,Female,Private,98.1,11.0,62.3,9,3,7.7,8,Yes,No,No,High School,100,A
+STU0142,Male,Private,78.8,8.6,90.0,5,0,8.2,9,Yes,No,No,Intermediate,84.5,B
+STU0143,Male,Private,64.2,13.2,40.5,12,3,8.1,8,Yes,Yes,No,High School,98.0,A
+STU0144,Male,Private,55.1,5.6,39.4,10,2,7.7,9,Yes,Yes,Yes,High School,84.4,B
+STU0145,Male,Private,89.6,17.1,93.7,10,2,9.0,7,Yes,No,Yes,Intermediate,100,A
+STU0146,Female,Government,70.6,4.7,67.2,12,1,7.8,4,Yes,No,No,Graduate,87.5,A
+STU0147,Male,Private,72.1,5.8,62.6,6,2,5.3,2,No,No,No,Intermediate,75.0,B
+STU0148,Male,Government,94.2,6.1,37.7,11,1,6.9,1,Yes,No,No,Graduate,76.0,B
+STU0149,Male,Private,81.9,15.1,54.2,8,1,8.9,9,Yes,No,No,Intermediate,97.7,A
+STU0150,Male,Private,80.0,2.0,55.7,10,4,5.9,7,Yes,No,Yes,Graduate,92.3,A
+STU0151,Female,Government,68.5,15.9,83.3,4,4,6.4,7,Yes,No,No,Graduate,97.5,A
+STU0152,Male,Government,79.1,18.4,38.1,10,4,7.2,2,Yes,Yes,No,Intermediate,92.1,A
+STU0153,Male,Private,95.8,7.4,89.5,7,1,8.8,2,Yes,No,Yes,High School,91.8,A
+STU0154,Male,Private,67.7,10.8,73.9,8,2,6.1,8,Yes,Yes,Yes,Intermediate,88.1,A
+STU0155,Female,Government,71.7,9.7,68.8,7,1,4.6,9,No,No,No,Postgraduate,89.8,A
+STU0156,Female,Government,79.8,20.8,55.3,11,3,6.6,6,Yes,Yes,No,High School,100,A
+STU0157,Male,Government,98.1,12.0,85.3,5,0,7.9,7,Yes,Yes,No,Postgraduate,100,A
+STU0158,Male,Private,85.0,13.9,64.0,11,0,4.5,9,Yes,No,No,Graduate,100,A
+STU0159,Female,Government,91.6,15.2,83.4,6,0,8.6,9,Yes,Yes,No,High School,100,A
+STU0160,Female,Private,80.4,21.8,48.6,5,0,4.9,7,Yes,Yes,No,Intermediate,94.2,A
+STU0161,Female,Private,74.5,17.5,69.0,5,4,8.6,4,Yes,Yes,Yes,Intermediate,100,A
+STU0162,Female,Government,84.6,4.8,86.0,4,1,7.1,7,No,No,Yes,Intermediate,91.2,A
+STU0163,Male,Government,79.3,9.1,79.4,5,4,7.9,6,Yes,No,No,Graduate,100,A
+STU0164,Male,Government,56.3,6.7,94.6,11,1,6.1,7,Yes,No,No,Graduate,94.8,A
+STU0165,Female,Government,66.1,2.5,51.1,10,1,7.8,6,Yes,Yes,No,High School,72.8,B
+STU0166,Female,Government,80.1,11.8,41.2,5,2,7.0,10,Yes,Yes,Yes,Intermediate,89.7,A
+STU0167,Female,Private,80.2,21.8,49.6,12,1,7.6,3,Yes,No,No,Graduate,100,A
+STU0168,Female,Government,71.3,20.8,78.3,11,4,7.3,8,Yes,Yes,Yes,Graduate,100,A
+STU0169,Male,Government,93.8,10.2,60.8,6,2,5.9,4,Yes,Yes,No,Intermediate,83.3,B
+STU0170,Female,Private,65.9,8.9,84.0,10,2,5.0,10,Yes,No,No,Intermediate,98.5,A
+STU0171,Male,Private,75.8,15.9,61.3,8,0,8.2,7,Yes,No,No,Postgraduate,94.7,A
+STU0172,Female,Government,99.6,11.1,59.0,12,3,6.9,6,Yes,No,No,High School,96.0,A
+STU0173,Male,Government,80.3,14.5,73.8,9,3,5.0,2,Yes,No,Yes,Graduate,95.0,A
+STU0174,Male,Government,70.5,1.5,41.3,10,0,5.0,3,Yes,No,No,Intermediate,66.6,C
+STU0175,Female,Government,74.7,15.6,54.1,8,0,8.1,2,Yes,Yes,No,Intermediate,88.5,A
+STU0176,Male,Private,62.2,12.8,92.5,7,3,7.3,3,Yes,No,Yes,High School,96.0,A
+STU0177,Female,Government,55.2,5.5,51.7,5,4,5.0,9,Yes,No,No,Intermediate,77.1,B
+STU0178,Female,Government,72.5,9.2,41.9,9,3,7.3,5,Yes,No,No,Intermediate,84.8,B
+STU0179,Male,Private,61.4,9.2,70.8,10,3,5.3,9,Yes,Yes,Yes,Intermediate,95.2,A
+STU0180,Male,Private,57.4,8.5,35.6,6,1,8.2,9,Yes,Yes,Yes,Intermediate,70.5,B
+STU0181,Female,Government,80.4,17.7,48.2,4,2,5.5,5,Yes,No,No,High School,84.7,B
+STU0182,Female,Private,71.5,18.3,37.5,11,4,5.5,7,Yes,Yes,No,Graduate,100,A
+STU0183,Male,Private,66.8,19.1,40.2,5,1,5.4,10,Yes,Yes,No,High School,83.8,B
+STU0184,Female,Government,70.8,6.9,67.3,9,2,5.8,5,Yes,Yes,Yes,High School,75.0,B
+STU0185,Male,Government,84.5,15.7,43.0,6,2,8.2,7,Yes,No,Yes,High School,81.8,B
+STU0186,Female,Private,73.1,16.7,76.7,9,3,8.8,6,Yes,Yes,No,Graduate,100,A
+STU0187,Male,Private,86.4,18.9,82.7,10,1,8.9,4,No,Yes,No,Graduate,100,A
+STU0188,Female,Government,85.7,2.0,41.0,11,0,5.1,3,Yes,No,No,Intermediate,66.1,C
+STU0189,Female,Private,94.7,7.3,87.5,8,0,7.4,5,No,No,No,Postgraduate,97.6,A
+STU0190,Male,Government,59.1,3.0,47.8,5,1,7.2,9,Yes,No,No,Intermediate,71.7,B
+STU0191,Female,Government,60.9,2.5,58.0,5,0,5.9,5,Yes,No,No,Intermediate,67.8,C
+STU0192,Male,Private,62.4,8.4,47.8,6,3,7.3,8,Yes,Yes,No,Graduate,91.7,A
+STU0193,Male,Government,98.3,7.6,43.4,8,0,5.6,10,Yes,No,No,Intermediate,76.8,B
+STU0194,Male,Private,88.7,7.2,38.3,7,3,6.2,4,Yes,Yes,No,Intermediate,75.5,B
+STU0195,Female,Private,69.2,9.1,85.3,10,2,7.0,3,Yes,No,Yes,Intermediate,94.3,A
+STU0196,Male,Government,90.5,11.6,72.7,12,3,6.4,7,Yes,Yes,Yes,High School,93.3,A
+STU0197,Male,Private,96.4,21.5,44.3,9,3,7.1,2,Yes,Yes,Yes,High School,98.6,A
+STU0198,Male,Government,68.9,16.6,79.4,5,0,7.7,1,Yes,No,No,Graduate,90.4,A
+STU0199,Male,Private,71.7,16.7,87.4,5,0,6.0,7,Yes,No,No,High School,93.6,A
+STU0200,Male,Private,62.1,17.2,88.7,5,1,7.8,1,Yes,Yes,No,High School,92.7,A
+STU0201,Male,Private,63.1,21.2,37.1,10,1,5.9,7,Yes,Yes,No,Postgraduate,99.7,A
+STU0202,Male,Private,78.2,2.0,59.1,11,2,8.0,5,Yes,No,Yes,High School,79.8,B
+STU0203,Female,Government,88.3,6.1,57.1,11,1,7.8,9,Yes,Yes,Yes,Graduate,95.9,A
+STU0204,Male,Private,55.4,8.0,80.5,10,2,5.0,9,Yes,No,No,Graduate,89.6,A
+STU0205,Male,Government,57.0,5.9,85.7,10,2,6.6,2,No,No,Yes,High School,71.5,B
+STU0206,Female,Government,66.7,7.6,83.0,9,2,6.5,4,Yes,No,No,High School,82.3,B
+STU0207,Male,Private,75.2,7.6,42.2,9,1,6.5,8,Yes,No,Yes,High School,79.5,B
+STU0208,Male,Private,93.5,4.1,77.7,9,3,6.8,5,Yes,No,No,High School,94.0,A
+STU0209,Female,Private,79.8,3.0,41.1,6,0,4.6,4,Yes,No,No,Intermediate,68.0,C
+STU0210,Female,Private,58.4,21.9,46.9,11,1,4.9,6,No,Yes,No,Postgraduate,99.7,A
+STU0211,Male,Government,72.8,1.6,76.0,6,2,5.5,3,Yes,Yes,No,Graduate,75.5,B
+STU0212,Male,Government,79.8,2.3,51.8,6,3,5.4,9,Yes,Yes,Yes,Intermediate,86.5,A
+STU0213,Male,Private,71.2,12.4,64.1,12,2,6.2,3,No,No,No,Graduate,94.3,A
+STU0214,Male,Private,89.5,22.0,93.4,5,1,7.5,5,Yes,Yes,No,Intermediate,100,A
+STU0215,Male,Private,97.1,21.8,45.4,7,4,5.9,6,No,No,No,Intermediate,99.1,A
+STU0216,Female,Private,94.7,11.3,53.5,11,0,4.9,4,Yes,No,Yes,Postgraduate,89.5,A
+STU0217,Male,Government,70.3,4.7,83.1,9,0,4.6,10,Yes,Yes,No,Graduate,89.4,A
+STU0218,Male,Private,72.8,3.1,53.1,6,1,7.8,7,No,No,No,Postgraduate,69.1,C
+STU0219,Female,Private,90.4,5.7,70.3,6,3,5.9,5,Yes,No,No,Postgraduate,95.3,A
+STU0220,Female,Private,91.4,13.8,73.4,5,3,5.1,2,Yes,No,Yes,Intermediate,97.9,A
+STU0221,Male,Government,85.2,16.3,55.1,4,2,5.4,2,Yes,No,No,Graduate,77.1,B
+STU0222,Male,Government,94.7,8.4,57.5,11,4,7.4,4,Yes,No,Yes,Intermediate,100,A
+STU0223,Male,Private,59.7,8.2,88.3,6,0,7.0,2,No,Yes,Yes,High School,67.9,C
+STU0224,Female,Private,57.4,8.0,93.5,10,4,7.7,9,Yes,No,No,Intermediate,100,A
+STU0225,Female,Private,77.1,2.1,35.2,5,2,8.2,10,Yes,Yes,No,Intermediate,73.3,B
+STU0226,Male,Government,72.9,11.3,74.7,5,4,6.2,6,Yes,Yes,No,Intermediate,93.9,A
+STU0227,Female,Government,67.1,2.3,80.1,5,0,7.5,9,Yes,Yes,No,High School,71.6,B
+STU0228,Male,Private,94.0,11.0,87.9,11,2,4.9,1,No,No,No,Intermediate,96.7,A
+STU0229,Male,Government,91.4,3.6,60.4,10,1,9.0,3,Yes,Yes,No,Postgraduate,88.4,A
+STU0230,Male,Government,96.3,1.3,77.0,12,3,5.0,3,Yes,No,No,Intermediate,84.3,B
+STU0231,Male,Private,90.1,17.5,87.0,9,3,5.7,8,Yes,No,Yes,High School,100,A
+STU0232,Male,Government,95.0,8.0,49.3,11,2,8.5,1,Yes,No,No,High School,79.2,B
+STU0233,Female,Private,59.4,19.2,43.1,11,2,5.7,7,Yes,Yes,No,Graduate,94.6,A
+STU0234,Female,Government,91.9,11.8,44.5,8,4,6.3,9,No,No,No,Graduate,89.5,A
+STU0235,Male,Government,57.3,8.6,46.9,9,3,6.8,2,No,Yes,Yes,High School,68.8,C
+STU0236,Female,Private,62.4,19.8,79.9,5,2,4.6,1,Yes,No,No,Intermediate,85.1,A
+STU0237,Male,Private,64.3,14.7,65.8,4,3,8.6,3,Yes,Yes,Yes,High School,88.2,A
+STU0238,Female,Private,95.3,18.9,62.5,7,3,5.9,9,No,No,No,High School,100,A
+STU0239,Female,Private,80.3,13.5,52.0,5,3,4.8,5,Yes,No,No,Graduate,79.1,B
+STU0240,Female,Private,65.8,2.2,86.4,10,2,7.6,1,No,No,Yes,Intermediate,69.8,C
+STU0241,Female,Private,86.9,13.0,46.4,7,4,7.4,8,Yes,No,No,High School,100,A
+STU0242,Female,Private,60.8,6.4,83.5,6,2,7.4,4,No,No,Yes,High School,73.2,B
+STU0243,Female,Government,81.4,10.7,42.1,4,4,7.1,10,No,No,No,Intermediate,91.5,A
+STU0244,Male,Private,61.2,5.2,59.6,11,1,5.9,3,Yes,Yes,Yes,Graduate,84.8,B
+STU0245,Male,Private,67.3,17.0,45.1,6,3,8.0,2,Yes,Yes,No,High School,88.2,A
+STU0246,Female,Government,71.8,1.3,54.3,12,1,4.6,1,No,Yes,Yes,High School,67.9,C
+STU0247,Male,Government,68.8,2.4,37.7,8,3,7.8,10,No,Yes,Yes,Intermediate,69.9,C
+STU0248,Male,Government,96.3,9.5,48.7,6,1,7.8,10,No,Yes,Yes,Postgraduate,88.9,A
+STU0249,Male,Government,89.7,14.1,70.6,4,0,7.4,1,Yes,No,No,Graduate,85.1,A
+STU0250,Female,Government,83.4,7.3,74.7,12,2,7.3,3,Yes,No,Yes,Graduate,94.7,A
+STU0251,Female,Private,59.8,5.2,47.0,8,4,8.9,6,Yes,No,Yes,High School,78.7,B
+STU0252,Male,Private,55.6,2.9,41.6,11,1,8.8,9,No,No,No,High School,65.6,C
+STU0253,Male,Private,68.3,10.7,41.0,6,0,8.3,6,Yes,Yes,Yes,Postgraduate,82.6,B
+STU0254,Male,Government,62.7,8.5,61.3,8,0,6.2,6,Yes,Yes,No,Graduate,75.9,B
+STU0255,Male,Government,76.5,9.9,88.2,6,0,5.1,1,Yes,No,No,Graduate,90.8,A
+STU0256,Male,Government,72.1,8.5,36.7,6,3,8.6,2,Yes,No,No,High School,68.4,C
+STU0257,Female,Government,78.6,16.6,78.4,7,2,6.8,10,Yes,No,Yes,Graduate,100,A
+STU0258,Male,Private,95.1,13.9,35.7,6,4,8.3,8,Yes,No,Yes,Graduate,100,A
+STU0259,Male,Government,65.0,14.5,59.2,7,0,6.6,10,Yes,Yes,No,High School,78.9,B
+STU0260,Female,Government,56.6,12.5,84.6,8,4,7.0,8,No,No,Yes,Intermediate,99.3,A
+STU0261,Female,Government,82.9,10.9,74.4,11,0,4.9,4,Yes,Yes,No,Intermediate,95.4,A
+STU0262,Female,Private,92.0,16.6,59.6,8,4,5.4,2,Yes,Yes,No,Intermediate,98.4,A
+STU0263,Female,Government,57.1,14.3,75.3,5,3,6.6,10,No,Yes,Yes,Graduate,97.9,A
+STU0264,Female,Government,96.6,17.4,89.6,6,1,5.0,10,Yes,No,No,Intermediate,100,A
+STU0265,Female,Private,67.3,21.2,93.2,11,1,5.1,10,Yes,No,No,Graduate,100,A
+STU0266,Female,Private,64.8,5.4,77.9,9,1,8.9,3,Yes,Yes,No,Intermediate,77.0,B
+STU0267,Female,Private,87.0,15.2,88.6,12,2,8.4,7,Yes,No,No,Postgraduate,100,A
+STU0268,Male,Government,99.3,15.4,43.8,4,2,5.4,9,Yes,Yes,Yes,Graduate,88.7,A
+STU0269,Male,Government,65.1,14.6,58.3,12,2,7.6,1,Yes,No,No,Intermediate,91.7,A
+STU0270,Female,Private,93.7,10.3,48.5,9,4,7.0,10,Yes,No,Yes,Graduate,100,A
+STU0271,Male,Private,63.4,4.6,65.8,10,0,6.4,9,No,Yes,Yes,Graduate,82.1,B
+STU0272,Female,Government,81.9,17.2,72.5,8,3,8.1,9,Yes,No,Yes,Postgraduate,100,A
+STU0273,Female,Government,90.4,4.3,67.6,10,0,6.1,4,Yes,No,No,Intermediate,77.5,B
+STU0274,Female,Government,99.2,1.2,75.1,11,1,8.6,10,Yes,No,No,Graduate,93.2,A
+STU0275,Male,Private,72.4,12.3,52.0,12,2,6.8,9,Yes,Yes,No,Postgraduate,100,A
+STU0276,Male,Government,79.0,14.2,47.6,7,3,8.3,4,Yes,Yes,No,Graduate,91.3,A
+STU0277,Female,Private,69.9,2.8,38.3,8,4,4.8,4,No,No,Yes,Intermediate,70.4,B
+STU0278,Female,Private,83.9,14.0,80.4,4,0,6.1,9,Yes,Yes,No,Intermediate,94.1,A
+STU0279,Male,Government,72.2,18.3,36.8,6,4,5.5,7,Yes,No,Yes,Postgraduate,95.4,A
+STU0280,Female,Private,87.8,8.8,92.0,12,4,5.1,1,Yes,No,No,Graduate,92.4,A
+STU0281,Male,Private,88.4,16.2,47.7,12,1,5.2,4,Yes,No,Yes,High School,88.7,A
+STU0282,Male,Government,99.7,10.7,68.0,8,0,5.6,4,No,No,No,Postgraduate,81.8,B
+STU0283,Female,Private,58.1,5.1,64.2,9,4,7.5,10,Yes,No,Yes,High School,94.6,A
+STU0284,Female,Private,83.8,6.8,56.6,9,3,6.6,6,Yes,Yes,No,Graduate,97.2,A
+STU0285,Female,Private,92.2,19.7,46.8,5,0,8.5,9,Yes,No,Yes,High School,88.9,A
+STU0286,Female,Private,79.3,14.7,43.9,10,1,8.5,10,Yes,Yes,Yes,Postgraduate,95.8,A
+STU0287,Female,Government,65.7,21.2,93.9,6,4,5.1,3,Yes,Yes,No,High School,100,A
+STU0288,Male,Private,57.8,8.8,37.6,7,4,8.6,6,Yes,Yes,Yes,Intermediate,94.2,A
+STU0289,Female,Private,86.7,11.9,84.8,8,4,6.9,3,Yes,Yes,No,Intermediate,99.7,A
+STU0290,Male,Private,94.0,11.2,63.9,4,4,8.5,8,Yes,No,No,Intermediate,100,A
+STU0291,Male,Government,82.1,18.2,74.7,10,2,7.7,8,Yes,Yes,Yes,High School,100,A
+STU0292,Male,Private,61.1,11.8,88.4,6,0,5.2,3,Yes,Yes,Yes,Intermediate,80.9,B
+STU0293,Female,Private,67.8,2.8,62.0,11,3,5.3,7,Yes,Yes,No,Graduate,80.3,B
+STU0294,Male,Private,81.8,2.4,57.7,6,0,4.6,9,Yes,Yes,No,Postgraduate,73.9,B
+STU0295,Female,Private,94.5,12.2,80.1,5,3,7.5,10,Yes,Yes,No,Intermediate,100,A
+STU0296,Female,Private,91.1,17.6,57.9,5,3,5.1,8,Yes,Yes,No,High School,99.0,A
+STU0297,Male,Private,55.2,16.6,35.4,12,0,6.8,7,Yes,No,No,High School,78.0,B
+STU0298,Female,Government,79.1,12.9,71.7,10,1,6.4,9,Yes,No,No,High School,90.0,A
+STU0299,Female,Government,89.8,9.4,43.3,5,1,6.5,3,Yes,No,No,Intermediate,76.9,B
+STU0300,Female,Private,83.6,17.9,84.4,11,4,6.5,2,Yes,No,Yes,Intermediate,100,A
+STU0301,Female,Government,82.6,11.9,77.7,4,1,7.4,8,Yes,Yes,No,Postgraduate,100,A
+STU0302,Female,Government,85.3,8.6,74.3,6,0,9.0,7,No,No,No,Graduate,85.1,A
+STU0303,Female,Private,96.4,12.5,78.6,12,4,6.1,5,Yes,Yes,Yes,Graduate,100,A
+STU0304,Female,Private,58.3,7.2,91.8,12,2,8.4,10,Yes,Yes,No,High School,100,A
+STU0305,Female,Private,98.3,10.6,62.6,4,3,5.0,2,No,No,No,Graduate,73.2,B
+STU0306,Male,Private,55.4,18.5,49.9,5,3,7.5,6,Yes,Yes,No,Intermediate,96.3,A
+STU0307,Male,Private,63.2,16.7,90.8,7,3,7.8,4,Yes,Yes,Yes,Intermediate,100,A
+STU0308,Male,Government,60.4,2.6,92.3,11,4,4.5,9,No,No,No,Graduate,80.6,B
+STU0309,Male,Private,80.9,6.8,46.0,12,2,6.3,10,Yes,Yes,No,Postgraduate,100,A
+STU0310,Female,Private,62.9,21.5,76.9,11,2,7.6,1,Yes,No,No,Graduate,100,A
+STU0311,Male,Government,66.8,6.7,92.5,9,2,5.3,7,Yes,Yes,No,High School,94.8,A
+STU0312,Female,Government,85.9,18.1,78.2,7,4,6.4,7,Yes,No,No,Postgraduate,100,A
+STU0313,Male,Government,77.5,21.9,86.0,12,4,7.7,8,No,Yes,No,High School,100,A
+STU0314,Male,Government,83.3,10.4,55.1,9,2,7.0,5,Yes,Yes,No,Intermediate,95.3,A
+STU0315,Female,Government,80.9,14.6,45.5,8,2,6.0,9,Yes,No,No,High School,80.6,B
+STU0316,Male,Government,91.3,8.1,72.9,10,0,4.9,6,Yes,No,Yes,High School,88.3,A
+STU0317,Male,Government,94.9,17.4,91.3,12,3,6.4,3,Yes,No,No,Intermediate,100,A
+STU0318,Male,Private,59.6,2.3,87.7,12,0,4.6,7,No,No,Yes,High School,76.6,B
+STU0319,Male,Government,65.3,16.5,61.6,6,1,6.9,3,Yes,Yes,No,Intermediate,92.2,A
+STU0320,Female,Private,61.1,20.9,67.4,11,4,6.5,9,Yes,No,No,Intermediate,100,A
+STU0321,Female,Private,73.5,4.3,35.6,12,1,6.0,8,Yes,Yes,Yes,Intermediate,73.0,B
+STU0322,Female,Private,65.4,1.2,57.4,10,4,6.5,4,Yes,Yes,No,High School,77.0,B
+STU0323,Male,Private,83.1,11.8,83.0,8,2,7.4,9,Yes,No,Yes,High School,100,A
+STU0324,Male,Government,83.0,4.9,36.2,4,4,4.6,2,Yes,No,No,High School,57.9,C
+STU0325,Female,Government,77.2,8.2,53.7,11,2,6.6,1,Yes,No,Yes,High School,73.6,B
+STU0326,Male,Government,92.9,18.2,84.7,5,1,6.2,8,Yes,Yes,No,High School,100,A
+STU0327,Male,Private,99.2,10.9,75.9,8,2,5.2,1,Yes,No,No,Intermediate,90.4,A
+STU0328,Male,Government,64.8,3.4,73.0,9,0,5.3,5,Yes,Yes,No,Graduate,71.2,B
+STU0329,Male,Government,86.0,4.3,81.2,7,1,6.7,10,Yes,No,No,Graduate,85.0,A
+STU0330,Male,Government,65.5,21.6,82.3,9,3,7.8,1,Yes,No,No,High School,100,A
+STU0331,Female,Government,68.3,15.6,46.4,6,4,6.1,8,Yes,No,No,Intermediate,87.9,A
+STU0332,Male,Government,55.0,14.4,57.7,6,0,7.3,6,Yes,Yes,Yes,Intermediate,91.9,A
+STU0333,Male,Government,85.7,17.1,44.2,8,2,6.3,6,Yes,No,No,High School,93.7,A
+STU0334,Male,Government,63.6,1.7,73.5,10,3,6.9,10,No,Yes,Yes,High School,89.7,A
+STU0335,Female,Government,84.5,20.5,84.9,11,0,6.1,7,Yes,No,Yes,Postgraduate,100,A
+STU0336,Male,Private,97.5,21.2,40.8,7,4,6.2,4,Yes,Yes,Yes,Intermediate,93.9,A
+STU0337,Male,Private,89.5,13.1,75.5,10,0,5.3,3,No,No,No,Graduate,82.5,B
+STU0338,Male,Private,99.9,18.7,59.7,10,2,7.2,10,Yes,No,No,Intermediate,100,A
+STU0339,Male,Government,98.2,1.0,37.1,8,4,4.6,3,Yes,No,No,Intermediate,75.1,B
+STU0340,Female,Private,92.0,20.3,65.7,6,0,4.7,6,Yes,Yes,No,Postgraduate,100,A
+STU0341,Male,Government,59.1,9.4,90.1,5,2,8.1,3,Yes,No,Yes,Graduate,76.1,B
+STU0342,Male,Private,57.5,17.2,55.9,10,3,8.7,2,Yes,No,No,High School,90.5,A
+STU0343,Male,Private,57.4,12.0,54.2,6,2,6.8,4,No,No,No,Graduate,78.6,B
+STU0344,Female,Private,90.4,4.1,55.2,11,4,7.9,9,Yes,No,Yes,Intermediate,100,A
+STU0345,Female,Government,76.6,5.2,58.7,7,4,7.3,9,Yes,No,No,Graduate,89.2,A
+STU0346,Female,Government,70.7,7.7,70.6,4,2,5.3,6,No,Yes,No,Intermediate,77.9,B
+STU0347,Female,Private,62.0,16.3,40.1,4,1,8.8,3,Yes,No,Yes,Graduate,84.2,B
+STU0348,Male,Government,88.3,5.4,67.8,8,4,6.7,3,No,Yes,No,Intermediate,76.6,B
+STU0349,Male,Government,64.0,15.6,51.3,11,0,4.8,5,No,No,Yes,High School,71.2,B
+STU0350,Female,Private,72.1,21.5,41.0,9,3,8.4,9,Yes,No,No,High School,91.3,A
+STU0351,Male,Government,66.1,12.1,55.0,10,1,4.6,6,Yes,No,No,High School,77.9,B
+STU0352,Female,Private,56.3,12.7,51.8,6,2,8.5,3,Yes,No,No,Graduate,82.9,B
+STU0353,Male,Private,73.8,13.0,60.6,8,4,6.0,9,Yes,No,No,Graduate,100,A
+STU0354,Male,Private,99.8,21.5,43.7,6,2,4.8,9,Yes,No,No,High School,100,A
+STU0355,Male,Government,98.8,21.2,53.2,8,1,8.0,2,No,Yes,Yes,Intermediate,94.9,A
+STU0356,Female,Private,58.6,17.4,43.0,11,2,5.3,7,Yes,No,Yes,High School,90.4,A
+STU0357,Female,Private,96.6,21.0,48.4,7,1,4.8,8,Yes,Yes,No,Postgraduate,100,A
+STU0358,Female,Private,92.1,16.1,58.6,12,4,7.4,1,No,No,No,Graduate,93.2,A
+STU0359,Male,Private,72.8,16.4,68.5,12,0,5.4,8,No,Yes,No,Intermediate,93.0,A
+STU0360,Female,Private,61.4,18.4,62.1,12,0,5.3,10,Yes,No,Yes,Intermediate,100,A
+STU0361,Male,Government,95.3,19.5,40.4,9,1,7.7,2,Yes,Yes,No,Postgraduate,100,A
+STU0362,Female,Government,62.2,12.6,37.6,6,2,7.0,3,Yes,No,No,Graduate,77.0,B
+STU0363,Male,Private,89.6,10.4,72.6,5,1,8.8,1,Yes,No,No,Intermediate,81.4,B
+STU0364,Female,Private,64.8,14.8,62.2,11,0,7.2,1,Yes,No,No,Intermediate,81.2,B
+STU0365,Male,Private,63.3,2.2,55.9,6,0,7.5,10,Yes,No,No,High School,68.2,C
+STU0366,Male,Government,86.5,13.0,68.7,11,4,6.1,1,No,Yes,Yes,Graduate,100,A
+STU0367,Male,Private,92.9,2.4,63.2,5,2,6.0,7,Yes,No,No,Graduate,73.8,B
+STU0368,Male,Government,86.0,20.6,94.2,8,3,7.2,6,Yes,No,No,Intermediate,100,A
+STU0369,Female,Private,78.4,14.3,64.6,6,4,5.5,5,No,Yes,Yes,Intermediate,92.4,A
+STU0370,Male,Private,73.7,2.0,56.0,7,0,7.4,5,No,No,Yes,Graduate,67.5,C
+STU0371,Female,Private,85.9,8.2,78.5,4,1,5.4,6,Yes,No,Yes,High School,89.8,A
+STU0372,Female,Private,79.2,8.0,82.0,10,0,8.3,5,Yes,No,No,Postgraduate,92.0,A
+STU0373,Female,Private,90.8,2.4,44.0,4,2,8.9,9,Yes,No,Yes,Postgraduate,85.8,A
+STU0374,Female,Government,86.9,6.7,40.2,7,2,6.5,5,Yes,No,Yes,Graduate,71.9,B
+STU0375,Male,Private,59.2,11.6,82.9,12,1,5.4,8,Yes,Yes,Yes,High School,99.0,A
+STU0376,Female,Government,61.0,16.2,62.6,12,0,4.5,1,No,No,No,Graduate,71.8,B
+STU0377,Male,Government,56.0,16.9,73.3,7,2,5.4,5,No,Yes,No,Graduate,87.3,A
+STU0378,Female,Private,80.2,3.1,67.6,12,2,5.7,5,Yes,Yes,Yes,Postgraduate,97.1,A
+STU0379,Male,Government,56.3,20.0,38.0,10,0,4.9,7,Yes,No,No,High School,84.1,B
+STU0380,Female,Private,79.0,21.4,80.3,11,4,5.1,8,Yes,No,No,Graduate,100,A
+STU0381,Male,Private,65.1,19.1,72.0,9,3,5.3,6,Yes,No,No,High School,100,A
+STU0382,Female,Private,67.7,8.3,69.5,12,0,6.3,2,Yes,Yes,No,Graduate,75.0,B
+STU0383,Female,Private,65.7,6.1,44.5,11,3,4.8,4,Yes,Yes,No,Intermediate,81.6,B
+STU0384,Female,Private,88.3,16.0,85.2,5,4,7.2,6,Yes,No,Yes,Graduate,100,A
+STU0385,Male,Private,91.6,17.2,57.7,11,0,4.9,3,Yes,No,Yes,High School,100,A
+STU0386,Male,Private,75.1,5.3,87.6,8,4,8.1,5,Yes,No,Yes,Graduate,91.0,A
+STU0387,Female,Private,78.0,18.8,86.2,4,2,8.6,1,No,No,No,Graduate,99.6,A
+STU0388,Female,Government,83.1,15.9,59.4,10,4,5.5,3,Yes,Yes,No,Intermediate,98.0,A
+STU0389,Female,Government,68.0,19.3,42.5,4,0,7.4,3,Yes,No,No,Intermediate,74.1,B
+STU0390,Female,Private,95.2,15.6,90.8,6,3,6.8,9,Yes,Yes,No,Graduate,100,A
+STU0391,Female,Government,87.9,16.0,51.2,12,4,6.2,1,Yes,No,Yes,Intermediate,88.5,A
+STU0392,Male,Private,93.7,16.8,51.8,12,0,6.9,10,No,Yes,No,Intermediate,97.4,A
+STU0393,Male,Government,79.3,13.2,71.8,9,4,8.0,8,Yes,No,No,Graduate,94.7,A
+STU0394,Female,Government,96.5,16.7,78.6,8,0,7.3,10,No,No,Yes,High School,100,A
+STU0395,Male,Private,76.8,3.7,39.6,8,2,5.1,5,Yes,Yes,No,High School,70.4,B
+STU0396,Male,Private,62.9,17.4,49.2,6,4,8.4,6,No,No,No,Intermediate,91.4,A
+STU0397,Male,Private,73.6,9.0,74.6,6,1,7.1,6,Yes,No,No,Graduate,91.3,A
+STU0398,Male,Government,96.5,5.9,76.0,10,3,5.7,9,Yes,No,No,Postgraduate,100,A
+STU0399,Female,Government,85.7,1.9,90.1,9,3,7.2,5,No,No,No,Postgraduate,87.5,A
+STU0400,Male,Government,85.2,17.2,66.2,6,2,7.0,1,Yes,No,No,High School,90.9,A
+STU0401,Male,Government,67.7,5.1,36.4,5,0,8.7,4,Yes,Yes,No,High School,69.0,C
+STU0402,Male,Government,91.1,4.9,41.7,6,2,5.8,2,Yes,Yes,No,Graduate,69.6,C
+STU0403,Female,Private,69.6,4.4,39.4,4,3,6.2,1,Yes,No,No,Graduate,62.5,C
+STU0404,Male,Government,77.1,4.0,81.1,7,4,7.4,8,Yes,No,No,High School,100,A
+STU0405,Female,Government,95.3,4.1,73.4,4,3,5.7,6,Yes,No,Yes,Intermediate,90.6,A
+STU0406,Female,Private,65.2,9.1,76.4,11,0,7.1,6,Yes,No,No,High School,83.9,B
+STU0407,Female,Private,79.1,21.2,39.8,11,2,7.4,3,Yes,No,No,High School,80.3,B
+STU0408,Male,Government,94.8,10.2,46.4,4,1,4.6,10,Yes,Yes,No,Intermediate,79.3,B
+STU0409,Male,Private,92.5,10.4,94.8,4,2,4.8,1,Yes,No,Yes,Intermediate,87.3,A
+STU0410,Female,Private,58.2,16.4,64.3,4,3,8.6,10,No,No,No,High School,91.8,A
+STU0411,Male,Government,91.9,3.0,71.7,5,0,5.0,10,Yes,Yes,No,Postgraduate,87.3,A
+STU0412,Male,Government,98.9,13.1,43.2,7,0,7.2,6,No,No,No,Intermediate,75.3,B
+STU0413,Male,Government,74.7,20.4,37.4,5,4,6.2,3,Yes,No,No,Intermediate,91.2,A
+STU0414,Male,Government,86.2,17.6,63.6,6,1,5.1,5,No,No,No,High School,84.1,B
+STU0415,Female,Government,77.5,21.0,72.6,8,2,6.4,9,No,No,Yes,High School,100,A
+STU0416,Male,Private,83.2,5.4,38.2,5,1,7.6,8,No,No,No,Intermediate,71.4,B
+STU0417,Female,Government,74.6,8.0,83.3,11,0,5.0,1,Yes,Yes,No,High School,85.6,A
+STU0418,Male,Private,69.7,5.2,75.6,9,1,8.0,6,Yes,No,No,Intermediate,84.6,B
+STU0419,Male,Government,76.2,11.2,88.4,6,1,8.7,8,Yes,No,No,High School,97.5,A
+STU0420,Female,Private,86.1,2.3,43.2,11,3,6.4,6,Yes,No,Yes,High School,85.3,A
+STU0421,Male,Private,62.6,21.4,86.3,5,3,8.4,8,Yes,No,No,Graduate,100,A
+STU0422,Female,Private,69.7,13.2,88.5,6,4,8.5,7,Yes,No,No,High School,99.9,A
+STU0423,Male,Government,76.6,17.8,84.3,11,3,5.6,9,Yes,No,Yes,Intermediate,100,A
+STU0424,Female,Private,76.6,7.4,77.2,4,3,6.6,3,Yes,Yes,No,High School,75.7,B
+STU0425,Female,Government,83.2,9.1,76.4,12,0,5.8,5,No,No,No,High School,81.7,B
+STU0426,Male,Private,97.5,15.2,88.3,5,3,6.1,10,Yes,No,No,High School,100,A
+STU0427,Male,Government,64.2,21.6,49.3,5,3,7.8,10,Yes,No,Yes,Graduate,100,A
+STU0428,Male,Government,71.8,10.5,65.1,5,3,7.7,9,No,No,No,High School,78.0,B
+STU0429,Female,Private,94.7,5.0,88.0,5,0,6.3,3,Yes,No,No,Postgraduate,82.3,B
+STU0430,Male,Government,97.8,1.5,60.0,12,1,6.6,7,Yes,Yes,Yes,High School,100,A
+STU0431,Female,Private,92.6,11.9,55.2,9,2,6.7,9,Yes,Yes,Yes,Graduate,100,A
+STU0432,Female,Private,71.7,7.1,85.7,6,2,5.8,3,No,Yes,No,High School,75.0,B
+STU0433,Male,Private,85.0,4.2,49.3,4,2,7.1,8,Yes,No,No,Graduate,78.2,B
+STU0434,Male,Private,79.0,3.6,36.5,11,1,8.8,6,No,Yes,No,Postgraduate,80.6,B
+STU0435,Male,Government,76.3,7.1,91.6,6,4,7.8,8,Yes,No,Yes,Graduate,100,A
+STU0436,Female,Private,92.8,10.4,40.5,4,4,7.4,10,Yes,No,Yes,Intermediate,93.9,A
+STU0437,Male,Private,85.5,21.1,93.6,10,1,6.7,10,Yes,Yes,Yes,Graduate,100,A
+STU0438,Female,Government,70.5,7.5,61.7,12,0,5.5,8,Yes,No,No,High School,75.3,B
+STU0439,Female,Private,95.3,3.9,70.2,5,1,5.4,8,Yes,No,No,Intermediate,89.7,A
+STU0440,Female,Government,96.1,9.7,68.3,6,1,5.3,7,No,No,Yes,Intermediate,83.7,B
+STU0441,Female,Private,80.2,10.7,36.6,4,1,5.7,8,Yes,No,No,Intermediate,80.6,B
+STU0442,Female,Government,67.5,21.9,39.0,9,4,6.7,7,Yes,No,Yes,High School,100,A
+STU0443,Female,Private,80.9,18.8,44.8,4,1,5.9,3,Yes,No,Yes,Intermediate,80.9,B
+STU0444,Female,Government,97.1,11.8,81.0,6,0,7.2,3,No,Yes,Yes,Intermediate,89.3,A
+STU0445,Female,Private,86.0,3.0,69.8,6,0,5.1,5,No,No,Yes,Graduate,68.2,C
+STU0446,Female,Private,90.8,12.7,76.4,12,4,7.7,2,Yes,Yes,No,Graduate,100,A
+STU0447,Female,Private,69.0,8.6,84.0,12,2,5.3,5,Yes,No,No,Intermediate,100,A
+STU0448,Male,Government,99.1,9.9,80.8,5,0,4.6,8,Yes,No,Yes,High School,91.7,A
+STU0449,Female,Government,60.4,6.3,39.0,4,0,8.0,10,Yes,No,No,High School,69.3,C
+STU0450,Male,Private,81.1,8.4,86.3,7,4,7.1,2,Yes,Yes,No,High School,100,A
+STU0451,Male,Private,55.2,16.2,90.5,12,3,6.1,10,Yes,No,Yes,Graduate,100,A
+STU0452,Male,Government,60.1,21.7,42.4,5,4,5.1,6,Yes,Yes,Yes,High School,97.3,A
+STU0453,Female,Private,82.0,7.6,93.6,11,1,7.0,5,Yes,Yes,Yes,High School,100,A
+STU0454,Male,Private,85.3,15.1,58.8,12,0,5.0,7,No,No,No,High School,88.4,A
+STU0455,Female,Private,71.4,5.2,47.0,10,0,5.5,7,No,No,No,High School,67.4,C
+STU0456,Female,Private,97.8,21.7,65.7,6,3,5.0,5,No,No,No,Graduate,96.4,A
+STU0457,Female,Private,58.1,15.2,93.3,10,4,7.6,3,Yes,Yes,Yes,High School,100,A
+STU0458,Male,Private,77.4,11.6,67.5,12,4,4.6,1,Yes,No,No,High School,97.8,A
+STU0459,Female,Private,56.6,4.7,74.6,8,1,6.7,3,Yes,No,No,Intermediate,73.0,B
+STU0460,Male,Private,80.3,4.3,38.3,8,3,7.2,7,Yes,No,No,Intermediate,83.2,B
+STU0461,Female,Private,71.5,18.0,70.0,9,3,4.9,6,Yes,Yes,No,High School,100,A
+STU0462,Male,Private,57.9,7.4,55.3,4,4,6.0,8,Yes,No,No,Postgraduate,82.0,B
+STU0463,Female,Private,99.4,8.9,58.4,5,3,5.0,4,No,Yes,No,Intermediate,78.8,B
+STU0464,Female,Government,98.8,2.6,86.0,7,2,5.7,5,Yes,No,Yes,Graduate,95.6,A
+STU0465,Female,Private,81.6,6.7,69.0,12,3,6.4,6,Yes,No,No,Intermediate,97.2,A
+STU0466,Female,Private,66.3,11.8,75.3,12,1,8.5,9,Yes,No,Yes,Intermediate,95.6,A
+STU0467,Male,Private,97.2,12.2,71.9,10,4,7.8,1,Yes,No,No,Intermediate,95.3,A
+STU0468,Male,Government,93.7,20.1,73.0,10,2,8.2,3,Yes,No,No,Intermediate,100,A
+STU0469,Female,Private,90.9,7.5,64.1,10,3,7.4,1,Yes,Yes,Yes,High School,91.5,A
+STU0470,Male,Government,98.4,11.2,36.2,5,2,7.2,2,No,No,Yes,Graduate,76.9,B
+STU0471,Female,Private,92.9,6.0,69.3,12,0,6.8,10,Yes,No,No,Graduate,100,A
+STU0472,Female,Private,92.5,16.5,83.4,7,3,5.5,2,Yes,No,No,Intermediate,96.8,A
+STU0473,Male,Government,79.0,15.7,41.8,12,3,6.6,4,Yes,No,No,High School,100,A
+STU0474,Male,Government,82.3,18.7,74.7,4,1,5.6,7,Yes,No,Yes,Postgraduate,96.6,A
+STU0475,Female,Private,65.6,10.3,35.5,10,2,5.9,4,Yes,No,No,Intermediate,72.7,B
+STU0476,Male,Private,56.5,19.2,84.4,11,3,7.8,6,Yes,No,No,Intermediate,100,A
+STU0477,Female,Private,70.8,13.6,83.8,9,3,7.6,1,No,No,No,Intermediate,88.6,A
+STU0478,Female,Private,58.7,4.3,66.0,6,4,7.6,6,Yes,No,No,Intermediate,78.7,B
+STU0479,Female,Private,91.0,5.2,59.9,6,3,8.4,10,Yes,Yes,No,Graduate,98.2,A
+STU0480,Male,Private,73.0,10.0,50.6,5,2,5.3,10,No,Yes,No,High School,91.8,A
+STU0481,Male,Government,77.2,5.7,47.2,8,2,7.9,7,Yes,No,No,Graduate,87.8,A
+STU0482,Male,Private,61.6,7.1,50.7,11,1,6.2,8,Yes,No,No,Intermediate,88.8,A
+STU0483,Male,Government,87.1,15.9,79.2,8,0,4.9,1,Yes,Yes,No,Graduate,100,A
+STU0484,Female,Private,88.7,2.0,50.2,10,2,8.9,6,No,No,No,Intermediate,81.7,B
+STU0485,Male,Private,96.9,19.4,42.9,9,4,6.4,5,Yes,No,Yes,Intermediate,100,A
+STU0486,Male,Private,95.6,6.5,84.8,8,4,5.9,3,No,Yes,No,Intermediate,94.2,A
+STU0487,Female,Private,83.6,10.2,46.3,4,1,5.3,8,Yes,No,No,Postgraduate,80.7,B
+STU0488,Female,Government,80.2,10.6,41.7,6,0,6.1,4,No,No,No,Postgraduate,76.6,B
+STU0489,Female,Government,81.4,13.3,93.3,12,4,5.3,2,Yes,No,Yes,Postgraduate,100,A
+STU0490,Male,Private,81.6,21.0,85.2,6,0,4.9,8,Yes,No,No,Intermediate,100,A
+STU0491,Female,Private,83.0,10.5,91.8,6,1,8.4,5,Yes,No,Yes,High School,94.9,A
+STU0492,Male,Private,89.7,9.4,36.2,7,1,6.2,7,Yes,Yes,Yes,High School,82.9,B
+STU0493,Female,Private,88.1,20.4,89.2,6,2,7.5,6,No,Yes,Yes,Graduate,100,A
+STU0494,Female,Private,82.6,10.1,60.6,4,4,6.0,8,Yes,No,No,Graduate,91.2,A
+STU0495,Male,Private,58.8,10.8,39.8,11,2,5.2,3,Yes,No,No,Graduate,75.1,B
+STU0496,Male,Private,59.8,9.9,40.7,8,2,5.6,2,Yes,Yes,Yes,High School,68.1,C
+STU0497,Male,Government,58.7,19.4,52.9,11,3,7.3,5,Yes,Yes,Yes,Intermediate,92.8,A
+STU0498,Male,Government,74.5,1.4,58.7,4,1,7.5,8,Yes,No,Yes,Graduate,83.6,B
+STU0499,Female,Private,98.8,8.6,75.4,10,2,4.9,3,No,No,No,Graduate,91.9,A
+STU0500,Male,Private,65.9,18.7,86.5,12,1,4.9,8,Yes,Yes,No,High School,100,A
+STU0501,Male,Private,98.4,10.9,86.6,7,1,5.8,7,Yes,Yes,Yes,Graduate,100,A
+STU0502,Female,Private,68.1,11.2,64.2,11,1,7.7,9,No,No,No,Intermediate,90.5,A
+STU0503,Male,Government,76.3,11.4,91.3,9,3,7.6,1,Yes,Yes,No,Intermediate,100,A
+STU0504,Female,Government,82.1,18.7,74.4,6,2,7.8,7,Yes,Yes,No,Intermediate,100,A
+STU0505,Female,Private,93.0,14.1,51.9,5,3,5.1,4,Yes,No,No,Graduate,91.7,A
+STU0506,Female,Private,71.1,6.5,75.6,6,4,4.6,2,Yes,Yes,No,Postgraduate,91.6,A
+STU0507,Female,Government,70.3,8.5,37.8,12,2,8.5,9,Yes,Yes,Yes,High School,86.9,A
+STU0508,Male,Private,59.8,13.8,81.9,5,4,4.7,2,Yes,No,No,High School,84.7,B
+STU0509,Male,Private,74.9,11.6,79.0,5,1,7.4,6,No,No,Yes,High School,85.7,A
+STU0510,Male,Government,70.4,11.6,40.1,9,3,6.1,4,Yes,No,Yes,Graduate,79.8,B
+STU0511,Male,Private,96.3,19.9,92.1,12,2,8.7,8,Yes,No,Yes,Intermediate,100,A
+STU0512,Male,Government,89.2,14.9,73.5,4,4,8.9,7,Yes,No,Yes,High School,100,A
+STU0513,Female,Private,70.5,18.4,89.0,6,3,6.5,4,Yes,No,No,Intermediate,100,A
+STU0514,Female,Private,68.6,1.8,55.1,6,4,9.0,5,No,No,No,High School,65.9,C
+STU0515,Male,Government,56.3,17.7,70.6,7,2,7.8,9,Yes,No,No,High School,97.3,A
+STU0516,Female,Government,75.2,13.0,35.3,9,1,8.1,10,Yes,Yes,No,Postgraduate,93.4,A
+STU0517,Male,Government,87.1,11.9,49.9,9,4,7.1,6,Yes,No,No,Graduate,91.9,A
+STU0518,Female,Private,75.1,8.8,66.6,12,4,8.0,5,Yes,Yes,No,Intermediate,100,A
+STU0519,Female,Private,73.8,4.4,65.3,11,3,5.1,9,No,No,No,Graduate,88.9,A
+STU0520,Male,Private,60.3,18.9,41.6,9,4,5.8,9,Yes,Yes,No,Postgraduate,99.9,A
+STU0521,Male,Government,61.4,17.5,60.3,8,2,5.5,8,Yes,Yes,Yes,High School,100,A
+STU0522,Male,Private,90.2,11.0,78.2,6,1,6.8,8,Yes,No,No,Postgraduate,99.1,A
+STU0523,Female,Private,83.1,9.1,89.0,9,4,4.7,8,Yes,No,Yes,Graduate,100,A
+STU0524,Male,Private,60.6,12.7,46.5,12,4,7.9,10,Yes,No,No,Intermediate,91.3,A
+STU0525,Male,Private,98.3,6.8,47.3,11,0,8.1,10,Yes,Yes,No,Intermediate,90.9,A
+STU0526,Female,Private,69.3,6.4,41.9,5,4,5.3,3,Yes,No,No,Graduate,77.7,B
+STU0527,Male,Government,82.7,7.8,36.6,4,2,6.3,6,Yes,Yes,No,High School,78.8,B
+STU0528,Female,Government,81.4,11.4,80.1,10,0,5.7,6,No,Yes,Yes,Graduate,100,A
+STU0529,Female,Private,55.8,12.6,70.2,5,1,7.9,3,Yes,Yes,No,Postgraduate,83.4,B
+STU0530,Male,Private,62.6,6.1,92.2,12,3,4.7,8,Yes,No,Yes,Intermediate,100,A
+STU0531,Female,Private,66.3,15.3,95.0,7,4,8.3,5,Yes,Yes,No,High School,100,A
+STU0532,Male,Government,67.6,10.1,71.6,9,2,7.4,8,Yes,Yes,Yes,Intermediate,98.8,A
+STU0533,Female,Government,55.7,15.5,73.8,4,4,6.6,1,No,Yes,No,Intermediate,78.6,B
+STU0534,Female,Private,56.4,18.5,75.3,5,2,8.9,7,Yes,No,No,High School,91.0,A
+STU0535,Female,Government,71.7,5.1,35.6,4,2,7.6,6,No,No,No,High School,63.2,C
+STU0536,Female,Private,77.2,15.8,71.4,4,1,8.9,7,Yes,No,No,High School,100,A
+STU0537,Male,Private,80.5,15.3,68.9,5,4,5.1,2,Yes,No,No,Graduate,100,A
+STU0538,Male,Private,98.6,15.2,71.9,12,3,4.5,7,Yes,Yes,No,High School,100,A
+STU0539,Male,Private,78.3,11.4,66.0,4,1,4.7,7,Yes,No,No,High School,77.1,B
+STU0540,Female,Government,99.0,9.9,39.5,7,1,5.2,5,Yes,No,Yes,Graduate,79.3,B
+STU0541,Male,Private,83.2,8.0,50.0,5,3,5.6,6,Yes,No,No,Intermediate,85.0,A
+STU0542,Male,Private,81.1,2.8,38.6,4,3,5.9,2,Yes,No,No,Graduate,56.3,C
+STU0543,Male,Government,59.6,2.2,38.1,10,3,4.9,7,No,Yes,No,Intermediate,67.8,C
+STU0544,Male,Private,84.3,15.2,36.6,12,2,7.1,2,Yes,No,No,High School,93.0,A
+STU0545,Male,Government,60.7,11.7,56.3,11,4,6.5,4,Yes,No,No,Postgraduate,92.1,A
+STU0546,Male,Government,94.8,17.3,43.8,8,4,6.0,6,Yes,No,No,Intermediate,97.8,A
+STU0547,Male,Private,80.2,2.1,55.6,7,1,8.0,6,Yes,Yes,Yes,Graduate,83.0,B
+STU0548,Female,Private,73.8,4.4,62.3,4,3,5.5,1,Yes,No,No,Graduate,76.5,B
+STU0549,Male,Private,91.7,18.0,57.6,10,1,8.2,1,Yes,Yes,No,Graduate,97.2,A
+STU0550,Male,Private,71.2,21.5,46.9,8,1,5.5,5,Yes,No,No,Postgraduate,94.5,A
+STU0551,Male,Government,96.0,1.4,75.6,10,0,6.0,4,Yes,Yes,Yes,Graduate,84.5,B
+STU0552,Female,Private,94.5,2.4,43.7,6,1,5.4,7,No,No,No,Postgraduate,74.1,B
+STU0553,Female,Government,81.4,18.9,52.7,6,2,5.6,5,Yes,No,No,Graduate,97.9,A
+STU0554,Female,Government,77.9,16.8,73.7,12,2,6.7,8,Yes,No,No,High School,98.0,A
+STU0555,Male,Government,67.1,9.4,90.3,4,1,5.5,4,Yes,No,No,Intermediate,77.7,B
+STU0556,Male,Government,79.8,3.8,40.0,11,4,6.1,10,No,No,No,Intermediate,82.1,B
+STU0557,Male,Private,91.2,7.7,57.9,6,3,5.6,2,Yes,No,No,Intermediate,78.8,B
+STU0558,Male,Private,64.0,5.1,54.8,8,2,5.4,10,No,Yes,Yes,High School,80.1,B
+STU0559,Male,Private,68.5,18.3,82.0,10,3,8.2,1,Yes,No,No,High School,94.3,A
+STU0560,Male,Private,81.4,12.6,63.1,11,2,8.1,6,Yes,No,Yes,High School,99.0,A
+STU0561,Male,Government,56.4,3.9,87.4,8,0,6.7,6,No,No,No,Graduate,72.4,B
+STU0562,Female,Private,56.4,3.9,93.6,9,4,7.3,10,Yes,Yes,No,Intermediate,100,A
+STU0563,Female,Private,59.9,13.0,62.1,8,0,5.3,9,Yes,Yes,No,High School,91.0,A
+STU0564,Female,Government,68.1,12.0,62.3,9,4,4.5,6,Yes,No,No,High School,97.4,A
+STU0565,Female,Government,72.5,20.0,47.4,7,2,6.4,8,No,Yes,No,Graduate,95.8,A
+STU0566,Female,Private,61.4,2.3,59.0,7,4,6.0,10,Yes,No,Yes,High School,87.9,A
+STU0567,Female,Private,75.5,15.7,77.7,8,3,7.3,3,Yes,No,Yes,Postgraduate,99.8,A
+STU0568,Female,Private,97.6,6.0,87.2,8,4,5.8,2,No,Yes,No,Intermediate,94.0,A
+STU0569,Male,Private,89.0,11.6,81.8,10,3,5.2,4,Yes,No,Yes,Intermediate,95.5,A
+STU0570,Male,Private,63.7,1.8,50.0,6,2,7.5,8,Yes,No,Yes,Intermediate,73.5,B
+STU0571,Female,Private,76.2,6.9,44.7,4,4,5.0,5,Yes,No,No,Intermediate,80.3,B
+STU0572,Male,Government,64.8,1.7,75.5,7,3,7.6,9,Yes,No,Yes,Intermediate,92.0,A
+STU0573,Male,Government,89.5,20.5,57.5,7,1,4.9,7,Yes,Yes,Yes,Graduate,100,A
+STU0574,Male,Private,84.9,16.2,37.6,12,0,8.2,6,Yes,No,Yes,Graduate,94.5,A
+STU0575,Male,Private,59.8,7.8,35.9,9,0,6.3,8,No,Yes,No,High School,69.3,C
+STU0576,Female,Private,81.9,21.6,41.1,12,4,5.3,2,Yes,Yes,Yes,Intermediate,100,A
+STU0577,Female,Private,69.9,14.3,88.0,9,3,4.8,1,Yes,No,No,Graduate,90.8,A
+STU0578,Female,Private,56.0,16.9,42.4,7,3,7.9,10,Yes,No,No,High School,86.3,A
+STU0579,Male,Government,56.7,20.4,70.9,11,2,5.1,6,Yes,Yes,Yes,High School,95.8,A
+STU0580,Female,Private,65.9,12.3,89.4,7,1,7.2,7,Yes,Yes,No,Intermediate,91.4,A
+STU0581,Female,Government,57.3,21.8,91.3,6,0,5.3,9,Yes,Yes,No,Postgraduate,100,A
+STU0582,Male,Private,74.1,13.7,53.2,11,1,5.7,8,Yes,No,Yes,High School,81.5,B
+STU0583,Male,Private,82.4,10.1,44.4,11,0,7.9,7,Yes,Yes,No,Intermediate,93.8,A
+STU0584,Female,Private,75.4,8.9,71.4,5,2,5.1,8,Yes,No,Yes,Intermediate,81.0,B
+STU0585,Male,Government,77.1,20.4,91.4,9,3,6.7,10,Yes,Yes,No,Graduate,100,A
+STU0586,Male,Government,96.1,16.2,65.6,11,2,7.6,7,Yes,Yes,No,High School,100,A
+STU0587,Female,Private,85.4,15.6,73.7,8,4,6.5,3,Yes,Yes,No,Graduate,100,A
+STU0588,Male,Government,81.4,19.9,66.1,7,3,5.2,7,Yes,No,No,Intermediate,100,A
+STU0589,Female,Private,88.0,16.8,90.5,5,0,7.4,6,Yes,No,No,Intermediate,100,A
+STU0590,Male,Private,55.1,2.5,76.8,12,3,7.4,7,Yes,Yes,No,Graduate,89.3,A
+STU0591,Male,Government,60.0,12.9,47.8,7,0,7.9,4,Yes,Yes,No,Intermediate,75.6,B
+STU0592,Female,Government,58.9,3.6,38.9,4,4,5.6,8,No,Yes,No,High School,74.8,B
+STU0593,Male,Government,56.9,5.4,82.5,10,4,6.8,5,Yes,No,No,Graduate,96.1,A
+STU0594,Female,Private,65.8,8.6,58.9,4,2,8.4,2,Yes,No,Yes,Intermediate,72.5,B
+STU0595,Male,Private,82.1,19.2,51.8,7,2,6.5,8,Yes,No,No,High School,88.6,A
+STU0596,Male,Private,57.1,18.0,54.5,11,1,7.2,7,No,No,Yes,Intermediate,89.4,A
+STU0597,Male,Government,86.5,3.1,58.1,7,1,8.4,10,No,No,No,Graduate,81.8,B
+STU0598,Male,Government,94.4,4.5,61.8,5,3,7.5,4,No,Yes,No,Intermediate,70.0,B
+STU0599,Male,Government,87.2,4.4,90.7,10,2,5.5,5,Yes,No,Yes,Intermediate,87.1,A
+STU0600,Male,Private,70.0,5.7,69.6,5,2,6.2,7,No,No,No,Graduate,66.3,C

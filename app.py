@@ -25,7 +25,7 @@ st.set_page_config(
 st.title("🎓 Student Score Predictor")
 st.caption("Train a machine learning model on a student dataset and predict a target score.")
 
-DEFAULT_DATA_PATH = Path("data/star98.csv")
+DEFAULT_DATA_PATH = Path("data/star98demo.csv")
 
 
 @st.cache_data
