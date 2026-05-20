@@ -133,13 +133,13 @@ def explain_score(r2):
     return "Weak", "The model is not capturing enough useful patterns from the selected features."
 
 
-st.title("🎓 Student Score Predictor")
+st.title("Student Score Predictor")
 st.caption("A machine learning web app that predicts student performance using regression models.")
 
 c1, c2, c3 = st.columns(3)
-c1.info("📊 Upload or use demo student data")
-c2.info("🤖 Train Linear Regression or Random Forest")
-c3.info("🔍 Understand feature importance")
+c1.info(" Upload or use demo student data")
+c2.info(" Train Linear Regression or Random Forest")
+c3.info(" Understand feature importance")
 
 
 with st.sidebar:
