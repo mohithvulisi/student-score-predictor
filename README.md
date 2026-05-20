@@ -2,6 +2,11 @@
 
 A machine learning web app that trains a regression model on a student dataset and predicts a selected score/target column.
 
+## Live Demo
+
+[Click here to view the deployed app](https://student-score-predictor-spys6shfzupqxkqducitzs.streamlit.app/)
+
+
 ## Features
 
 - Upload any student CSV dataset
